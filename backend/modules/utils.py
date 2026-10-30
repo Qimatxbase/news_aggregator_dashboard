@@ -3,7 +3,7 @@ from modules.scraper import Scraper
 from modules.data_processor import DataProcessor
 from modules.mongodb import MongoDBHandler
 import pandas as pd
-from modules.funtion import remove_duplicates_by_url
+from modules.article_urls import remove_duplicates_by_url
 
 db = MongoDBHandler()
 

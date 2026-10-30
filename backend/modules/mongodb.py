@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 from pymongo import MongoClient, ASCENDING
 from pymongo.errors import DuplicateKeyError, ServerSelectionTimeoutError
-from modules.funtion import normalize_url, remove_duplicates_by_url
+from modules.article_urls import normalize_url, remove_duplicates_by_url
 load_dotenv()
 class MongoDBHandler:
     def __init__(self):

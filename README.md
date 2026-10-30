@@ -6,6 +6,10 @@ MongoDB, and serves data and chart endpoints to the React dashboard.
 
 This is separate from the Call Your Shot / CYS Solar hackathon.
 
+## Project provenance
+
+Course and assessment provenance have not been established from the retained materials. The combined repository preserves both original development histories and contributor attribution; individual ownership of every component is not asserted.
+
 ## Structure
 
 ```text
