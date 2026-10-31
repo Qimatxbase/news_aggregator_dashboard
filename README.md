@@ -51,5 +51,3 @@ The backend listens on <http://localhost:5000>; React runs on
 <http://localhost:3000>. Current frontend API URLs use localhost:5000.
 Backend tests live in `backend/tests/`; they require the configured external
 services and are not treated as offline validation.
-
-[Portfolio index](https://github.com/Qimatxbase/engineering_portfolio)
